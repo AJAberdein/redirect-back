@@ -13,6 +13,9 @@ import HelloWorld from './components/HelloWorld.vue'
       <nav>
         <RouterLink to="/">Home</RouterLink>
         <RouterLink to="/about">About</RouterLink>
+        <RouterLink to="/a">Redirect A</RouterLink>
+        <RouterLink to="/b">Redirect B</RouterLink>
+        <RouterLink to="/c">Redirect C</RouterLink>
       </nav>
     </div>
   </header>
@@ -48,7 +51,7 @@ nav a.router-link-exact-active:hover {
 
 nav a {
   display: inline-block;
-  padding: 0 1rem;
+  padding: 0 0.6rem;
   border-left: 1px solid var(--color-border);
 }
 
