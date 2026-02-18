@@ -1,1 +1,0 @@
-import{_ as o,o as s,c as t,a}from"./index-CAVQOM0g.js";const c={},n={class:"about"};function r(_,e){return s(),t("div",n,[...e[0]||(e[0]=[a("h1",null,"Page C",-1)])])}const d=o(c,[["render",r]]);export{d as default};
