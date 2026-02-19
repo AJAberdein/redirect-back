@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h1>Page C</h1>
+    <h1>Page C - Nav Guard</h1>
   </div>
 </template>
 
