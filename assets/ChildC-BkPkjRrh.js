@@ -1,1 +1,0 @@
-import{d as s,b as t,c as n,a as r,o as c}from"./index-Cp-FgFtx.js";const f={class:"about"},u=s({__name:"ChildC",setup(i){return t((a,e,o)=>{window.confirm("Are you sure you want to go back?")?o():o(!1)}),(a,e)=>(c(),n("div",f,[...e[0]||(e[0]=[r("h1",null,"Page C",-1)])]))}});export{u as default};
