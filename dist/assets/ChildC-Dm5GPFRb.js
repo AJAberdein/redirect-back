@@ -1,0 +1,1 @@
+import{d as s,b as t,c as n,a as r,o as c}from"./index-Co2b7H7j.js";const f={class:"about"},m=s({__name:"ChildC",setup(i){return t((a,e,o)=>{window.confirm("Are you sure you want to go back?")?o():o(!1)}),(a,e)=>(c(),n("div",f,[...e[0]||(e[0]=[r("h1",null,"Page C - Nav Guard",-1)])]))}});export{m as default};
